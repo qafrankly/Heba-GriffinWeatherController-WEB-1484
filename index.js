@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-
+import CategoryGridWrapper from 'qafrankly/GriffinCategoryGrid';
 import _ from 'lodash';
 //import dep from './dep';
 
